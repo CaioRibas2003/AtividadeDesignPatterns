@@ -1,4 +1,4 @@
-package Prototype;
+package PrototypeExercicio;
 
 public class PrototypeMain {
     public static void main(String[] args) {

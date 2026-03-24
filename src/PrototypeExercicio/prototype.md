@@ -1,4 +1,4 @@
-# Atividade Prática – Padrão Prototype
+# Atividade Prática – Padrão PrototypeExercicio
 ## Cenário
 
 Um sistema de jogos precisa criar vários **personagens semelhantes**.
@@ -13,7 +13,7 @@ Cada personagem possui:
 
 Criar todos os personagens manualmente pode ser repetitivo.
 
-Por isso, o sistema utilizará **Prototype** para **clonar personagens existentes e modificar apenas algumas propriedades**.
+Por isso, o sistema utilizará **PrototypeExercicio** para **clonar personagens existentes e modificar apenas algumas propriedades**.
 
 ## Entrega da atividade
 

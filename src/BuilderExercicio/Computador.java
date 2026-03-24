@@ -1,4 +1,4 @@
-package Builder;
+package BuilderExercicio;
 
 public class Computador {
 

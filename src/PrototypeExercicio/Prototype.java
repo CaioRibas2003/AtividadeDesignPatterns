@@ -1,4 +1,4 @@
-package Prototype;
+package PrototypeExercicio;
 
 public interface Prototype {
 

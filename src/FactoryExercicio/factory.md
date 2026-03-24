@@ -6,7 +6,7 @@ mas o código cliente não deve conhecer os detalhes específicos de cada implem
 
 ## Instruções
 
-### Parte 1: Criar a Interface e Classes Concretas
+### Parte 1: Criar a AbstractFactoryExercicio.AbstractFactoryExercicio.Interface e Classes Concretas
 1. Crie uma interface `Notification` com o método `send(message: String): void`
 2. Implemente três classes concretas:
     - `EmailNotification`: implementa envio por email

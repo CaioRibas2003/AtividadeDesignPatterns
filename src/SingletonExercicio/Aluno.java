@@ -1,4 +1,4 @@
-package Singleton;
+package SingletonExercicio;
 import java.time.LocalDate;
 
 public class Aluno {

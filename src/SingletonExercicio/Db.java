@@ -1,4 +1,4 @@
-package Singleton;
+package SingletonExercicio;
 
 import java.time.LocalDate;
 import java.util.ArrayList;

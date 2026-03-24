@@ -1,4 +1,4 @@
-package Singleton;
+package SingletonExercicio;
 
 public class Singleton {
 

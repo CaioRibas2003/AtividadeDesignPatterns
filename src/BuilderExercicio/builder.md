@@ -1,4 +1,4 @@
-# Atividade Prática – Padrão Builder
+# Atividade Prática – Padrão BuilderExercicio
 ## Cenário
 
 Uma empresa deseja criar um sistema para montar **computadores personalizados**.
@@ -24,7 +24,7 @@ Nem todos os computadores possuem todos os componentes.
 - 1TB SSD
 - Placa de vídeo
 
-Para facilitar a construção desses objetos utilizaremos o **padrão Builder**.
+Para facilitar a construção desses objetos utilizaremos o **padrão BuilderExercicio**.
 
 ## Requisitos
 O projeto deve conter:

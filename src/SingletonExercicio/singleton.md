@@ -1,4 +1,4 @@
-# Atividade Prática – Padrão Singleton
+# Atividade Prática – Padrão SingletonExercicio
 ## Cenário
 Um sistema precisa armazenar informações de alunos.
 
@@ -6,20 +6,20 @@ Para simplificar o desenvolvimento, o **banco de dados será representado por um
 
 Se cada parte do sistema criar seu próprio banco de dados, os dados podem ficar **separados e inconsistentes**.
 
-Para resolver esse problema utilizaremos o **padrão Singleton**, garantindo que **existe apenas um banco de dados no sistema**.
+Para resolver esse problema utilizaremos o **padrão SingletonExercicio**, garantindo que **existe apenas um banco de dados no sistema**.
 
 ## Requisitos
 O projeto deve conter:
 
 - Classe `BancoDeDados`
-- Implementação do **padrão Singleton**
+- Implementação do **padrão SingletonExercicio**
 - Lista de alunos
 - Método `adicionar_aluno`
 - Método `listar_alunos`
 - Código de teste demonstrando o funcionamento
 
 ## Class Main para Testes
-No programa principal, crie duas variáveis utilizando o Singleton:
+No programa principal, crie duas variáveis utilizando o SingletonExercicio:
 ```
 db1 = BancoDeDados.get_instance()
 db2 = BancoDeDados.get_instance() 

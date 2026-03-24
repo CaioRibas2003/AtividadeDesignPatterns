@@ -1,4 +1,4 @@
-package Builder;
+package BuilderExercicio;
 
 public class BuilderMain {
     public static void main(String[] args) {
